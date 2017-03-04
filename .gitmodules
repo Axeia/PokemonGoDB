@@ -1,0 +1,3 @@
+[submodule "GenerateSQLiteOpenHelper"]
+	path = GenerateSQLiteOpenHelper
+	url = https://github.com/Axeia/GenerateSQLiteOpenHelper
